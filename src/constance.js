@@ -10,7 +10,7 @@ const get_constance_persona = scenario => {
     situation: scenario.situation_for_constance,
     intentions: scenario.intentions_for_constance,
   
-    system_instructions_before_each_prompt: `Respond concisely. Try to be funny. Keep your reply short. Respond with less than 70 words.`,
+    system_instructions_before_each_prompt: `Respond concisely. Try to be funny. Keep your reply short. Respond with less than 25 words.`,
     color: 'magenta'
   })
 

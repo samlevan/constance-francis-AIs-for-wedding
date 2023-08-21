@@ -1,4 +1,4 @@
-import { SCENARIO_1, SCENARIO_2 } from './src/scenarios.js';
+import { SCENARIO_1, SCENARIO_2 } from './scenarios.js';
 
 const SCENARIO = SCENARIO_2
 
